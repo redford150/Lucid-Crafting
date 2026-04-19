@@ -19,7 +19,7 @@
     "materials": {
         "plastic": 5,
         "scrap": 10,
-        "rubber": 15
+        "rubber": 100
     },
     "additionalItems": {}
   },
