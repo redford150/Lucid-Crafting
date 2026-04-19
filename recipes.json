@@ -12,18 +12,6 @@
     "additionalItems": {}
   },
   {
-    "id": "tuk tuk",
-    "displayName": "tuk tuk",
-    "level": "Level 0",
-    "category": "Tool",
-    "materials": {
-        "plastic": 5,
-        "scrap": 10,
-        "rubber": 100
-    },
-    "additionalItems": {}
-  },
-  {
     "id": "hackers toolkit",
     "displayName": "Hacker's toolkit",
     "level": "Level 0",
