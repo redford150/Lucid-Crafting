@@ -366,6 +366,19 @@
       "power supply": 3
     }
   },
+    {
+    "id": "drug crate",
+    "displayName": "Drug Crate",
+    "level": "Level 25",
+    "category": "Tool",
+    "materials": {
+      "plastic": 40,
+      "aluminium": 30,
+      "rubber": 25,
+      "steel": 50
+    },
+    "additionalItems": {}
+  },
   {
     "id": "hypercore drill",
     "displayName": "HyperCore Drill",
@@ -583,19 +596,6 @@
       "copper ore": 3,
       "tin ore": 2
     }
-  },
-  {
-    "id": "drug crate",
-    "displayName": "Druge Crate",
-    "level": "Unknown",
-    "category": "Tool",
-    "materials": {
-      "plastic": 40,
-      "aluminium": 30,
-      "rubber": 25,
-      "steel": 50
-    },
-    "additionalItems": {}
   },
   {
     "id": "switchblade",
