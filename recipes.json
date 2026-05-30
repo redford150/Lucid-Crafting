@@ -1296,6 +1296,20 @@
     "additionalItems": {}
   },
   {
+    "id": "rifle grip",
+    "displayName": "Rifle Grip (makes 2)",
+    "level": "Level 15",
+    "category": "Weapon Attachments",
+    "blueprint": "Blueprint Required",
+    "materials": {
+        "plastic": 115,
+        "electronics": 75,
+        "scrap": 10,
+        "glass": 40
+    },
+    "additionalItems": {}
+  },
+  {
     "id": "large scope",
     "displayName": "Large Scope",
     "level": "Level 30",
