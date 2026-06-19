@@ -1330,7 +1330,7 @@
     "additionalItems": {}
   },
     {
-    "id": "Rifle suppressor",
+    "id": "rifle suppressor",
     "displayName": "Rifle Suppressor",
     "level": "Level 25",
     "category": "Weapon Attachments",
@@ -1343,6 +1343,21 @@
     },
     "additionalItems": {
         "titanium": 45
+    }
+  },
+    {
+    "id": "extended rifle mag",
+    "displayName": "Extended Rifle Mag",
+    "level": "Level 25",
+    "category": "Weapon Attachments",
+    "blueprint": "Blueprint Required",
+    "materials": {
+        "scrap": 150,
+        "plastic": 115,
+        "aluminium": 150
+    },
+    "additionalItems": {
+        "titanium": 10
     }
   },
   {
