@@ -1329,6 +1329,22 @@
     },
     "additionalItems": {}
   },
+    {
+    "id": "Rifle suppressor",
+    "displayName": "Rifle Suppressor",
+    "level": "Level 25",
+    "category": "Weapon Attachments",
+    "materials": {
+        "scrap": 250,
+        "plastic": 75,
+        "rubber": 115,
+        "scrap": 10,
+        "steel": 270
+    },
+    "additionalItems": {
+        "titanium": 45
+    }
+  },
   {
     "id": "large scope",
     "displayName": "Large Scope",
