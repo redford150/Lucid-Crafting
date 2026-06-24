@@ -1061,6 +1061,26 @@
         "titanium": 340     
     }
   },
+   {
+    "id": "Interseteller Rifle",
+    "displayName": "Intersteller Rifle",
+    "level": "Unknown",
+    "category": "Weapon",
+    "blueprint": "Blueprint Required",
+    "materials": {},
+    "additionalItems": {
+        "rifle Stock": 1,    
+        "rifle Stock tube": 1, 
+        "gun trigger": 1,  
+        "rifle barrel": 1,      
+        "metal spring": 1, 
+        "bolt assembly": 1,   
+        "rifle grip": 1,  
+        "rifle reciever": 1,  
+        "steel plate": 6,  
+        "titanium": 340     
+    }
+  },
   {
     "id": "ap pistol",
     "displayName": "AP Pistol",
