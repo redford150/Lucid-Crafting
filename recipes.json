@@ -1042,8 +1042,8 @@
     }
   },
   {
-    "id": "Demon Rifle",
-    "displayName": "Demon Rifle",
+    "id": "demonfire rifle",
+    "displayName": "Demonfire Rifle",
     "level": "Unknown",
     "category": "Weapon",
     "blueprint": "Blueprint Required",
@@ -1062,7 +1062,7 @@
     }
   },
    {
-    "id": "Interseteller Rifle",
+    "id": "interseteller rifle",
     "displayName": "Intersteller Rifle",
     "level": "Unknown",
     "category": "Weapon",
