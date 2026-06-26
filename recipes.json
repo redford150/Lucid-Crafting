@@ -4,10 +4,10 @@
     "displayName": "fixer material crate",
     "level": "Level 0",
     "category": "Container",
-    "materials": {},
-    "additionalItems": {
+    "materials": {
       "Materials": 2000
-    }
+    },
+    "additionalItems": {}
   },
   {
     "id": "lockpick",
