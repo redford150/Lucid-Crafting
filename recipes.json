@@ -1,5 +1,15 @@
 [
   {
+    "id": "fixer material crate",
+    "displayName": "fixer material crate",
+    "level": "Level 0",
+    "category": "Container",
+    "materials": {},
+    "additionalItems": {
+      "Materials": 2000
+    }
+  },
+  {
     "id": "lockpick",
     "displayName": "Lockpick",
     "level": "Level 0",
