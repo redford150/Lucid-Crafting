@@ -936,6 +936,7 @@
     "materials": {
     },
     "additionalItems": {
+        "Steel Plate": 4,
         "titanium": 75,
         "SMG Extractor": 1,
         "Bolt Assembly": 1,
@@ -954,6 +955,7 @@
     "materials": {
     },
     "additionalItems": {
+        "Steel Plate": 4,
         "titanium": 100, 
         "SMG Extractor": 1, 
         "Bolt Assembly": 1, 
@@ -973,6 +975,7 @@
       "plastic": 250
     },
     "additionalItems": {
+        "Steel Plate": 4,
         "SMG Barrel": 1,
         "Bolt Assembly": 1,
         "Metal Spring": 1,
@@ -990,6 +993,7 @@
     "blueprint": "Blueprint Required",
     "materials": {},
     "additionalItems": {
+        "Steel Plate": 4,
         "SMG Barrel": 1, 
         "Bolt Assembly": 1, 
         "Metal Spring": 1, 
@@ -1025,6 +1029,7 @@
     "blueprint": "Blueprint Required",
     "materials": {},
     "additionalItems": {
+        "Steel Plate": 4,
         "SMG Barrel": 1,    
         "Bolt Assembly": 1, 
         "Metal Spring": 1,  
