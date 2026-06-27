@@ -763,7 +763,7 @@
     "blueprint": "Blueprint Required",
     "materials": {
     },
-    "additionalItems": 
+    "additionalItems": {
         "steel plate": 2,
         "titanium": 40,
         "Pistol Clip": 1,
