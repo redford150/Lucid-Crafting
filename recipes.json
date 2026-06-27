@@ -1007,6 +1007,7 @@
     "blueprint": "Blueprint Required",
     "materials": {},
     "additionalItems": {
+        "Steel Plate": 4,
         "SMG Barrel": 1, 
         "Bolt Assembly": 1, 
         "Metal Spring": 1, 
