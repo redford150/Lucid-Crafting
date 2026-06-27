@@ -730,7 +730,7 @@
     "materials": {
     },
     "additionalItems": {
-        "Steel Plate": 2,
+        "steel plate": 2,
         "Pistol Clip": 1,
         "Gun Trigger": 1,
         "titanium": 35,
@@ -747,7 +747,7 @@
     "materials": {
     },
     "additionalItems": {
-        "Steel Plate": 2,
+        "steel plate": 2,
         "Pistol Clip": 1,
         "Gun Trigger": 1,
         "titanium": 75,
@@ -764,7 +764,7 @@
     "materials": {
     },
     "additionalItems": 
-        "Steel Plate": 2,
+        "steel plate": 2,
         "titanium": 40,
         "Pistol Clip": 1,
         "Gun Trigger": 1,
@@ -781,7 +781,7 @@
     "materials": {
     },
     "additionalItems": {
-        "Steel Plate": 2,
+        "steel plate": 2,
         "titanium": 20,
         "Pistol Clip": 1,
         "Gun Trigger": 1,
@@ -798,7 +798,7 @@
     "materials": {
     },
     "additionalItems": {
-        "Steel Plate": 2,
+        "steel plate": 2,
         "titanium": 40,
         "Pistol Clip": 1,
         "Gun Trigger": 1,
@@ -815,7 +815,7 @@
     "materials": {
     },
     "additionalItems": {
-        "Steel Plate": 2,
+        "steel plate": 2,
         "titanium": 60,
         "Pistol Clip": 1,
         "Gun Trigger": 1,
@@ -832,7 +832,7 @@
     "materials": {
     },
     "additionalItems": {
-        "Steel Plate": 2,
+        "steel plate": 2,
         "titanium": 22,
         "Pistol Clip": 1,
         "Gun Trigger": 1,
@@ -926,7 +926,7 @@
       "plastic": 250
     },
     "additionalItems": {
-        "Steel Plate": 2,
+        "steel plate": 2,
         "titanium": 150,
         "Pistol Clip": 1,
         "Gun Trigger": 1,
@@ -944,7 +944,7 @@
     "materials": {
     },
     "additionalItems": {
-        "Steel Plate": 4,
+        "steel plate": 4,
         "titanium": 75,
         "SMG Extractor": 1,
         "Bolt Assembly": 1,
@@ -963,7 +963,7 @@
     "materials": {
     },
     "additionalItems": {
-        "Steel Plate": 4,
+        "steel plate": 4,
         "titanium": 100, 
         "SMG Extractor": 1, 
         "Bolt Assembly": 1, 
@@ -983,7 +983,7 @@
       "plastic": 250
     },
     "additionalItems": {
-        "Steel Plate": 4,
+        "steel plate": 4,
         "SMG Barrel": 1,
         "Bolt Assembly": 1,
         "Metal Spring": 1,
@@ -1001,7 +1001,7 @@
     "blueprint": "Blueprint Required",
     "materials": {},
     "additionalItems": {
-        "Steel Plate": 4,
+        "steel plate": 4,
         "SMG Barrel": 1, 
         "Bolt Assembly": 1, 
         "Metal Spring": 1, 
@@ -1019,7 +1019,7 @@
     "blueprint": "Blueprint Required",
     "materials": {},
     "additionalItems": {
-        "Steel Plate": 4,
+        "steel plate": 4,
         "SMG Barrel": 1, 
         "Bolt Assembly": 1, 
         "Metal Spring": 1, 
@@ -1037,7 +1037,7 @@
     "blueprint": "Blueprint Required",
     "materials": {},
     "additionalItems": {
-        "Steel Plate": 4,
+        "steel plate": 4,
         "SMG Barrel": 1,    
         "Bolt Assembly": 1, 
         "Metal Spring": 1,  
