@@ -380,7 +380,7 @@
     "id": "drug crate",
     "displayName": "Drug Crate",
     "level": "Level 25",
-    "category": "Tool",
+    "category": "Container",
     "materials": {
       "plastic": 40,
       "aluminium": 30,
