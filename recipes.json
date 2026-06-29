@@ -85,6 +85,28 @@
     },
     "additionalItems": {}
   },
+      {
+    "id": "Steel Plate",
+    "displayName": "Steel Plate",
+    "level": "Level 5",
+    "category": "Tool",
+    "materials": {
+    },
+    "additionalItems": {
+        "Steel": 10
+    }
+  },
+    {
+    "id": "Copper Plate",
+    "displayName": "Copper Plate",
+    "level": "Level 5",
+    "category": "Tool",
+    "materials": {
+    },
+    "additionalItems": {
+        "copper": 10
+    }
+  },
   {
     "id": "Copper",
     "displayName": "Copper",
