@@ -633,7 +633,7 @@
     "id": "switchblade",
     "displayName": "Switchblade",
     "level": "Level 0",
-    "category": "Weapon",
+    "category": "Melee",
     "blueprint": "Blueprint Required",
     "materials": {
         "aluminium": 30,
@@ -648,7 +648,7 @@
     "id": "machete",
     "displayName": "Machete",
     "level": "Level 5",
-    "category": "Weapon",
+    "category": "Melee",
     "materials": {
         "aluminium": 30,
         "plastic": 55,
@@ -662,7 +662,7 @@
     "id": "battleaxe",
     "displayName": "Battleaxe",
     "level": "Level 7",
-    "category": "Weapon",
+    "category": "Melee",
     "materials": {
         "aluminium": 75,
         "plastic": 55,
@@ -676,7 +676,7 @@
     "id": "Golf Club",
     "displayName": "Golf Club",
     "level": "Level 10",
-    "category": "Weapon",
+    "category": "Melee",
     "materials": {
         "aluminium": 60,
         "plastic": 60,
@@ -690,7 +690,7 @@
     "id": "Broken Bottle",
     "displayName": "Broken Bottle",
     "level": "Level 15",
-    "category": "Weapon",
+    "category": "Melee",
     "materials": {
         "aluminium": 45,
         "plastic": 45,
@@ -704,7 +704,7 @@
     "id": "Pool Cue",
     "displayName": "Pool Cue",
     "level": "Level 17",
-    "category": "Weapon",
+    "category": "Melee",
     "materials": {
         "aluminium": 45,
         "plastic": 45,
@@ -718,7 +718,7 @@
     "id": "Pan",
     "displayName": "Pan",
     "level": "Level 23",
-    "category": "Weapon",
+    "category": "Melee",
     "materials": {
         "aluminium": 45,
         "plastic": 45,
@@ -732,7 +732,7 @@
     "id": "Karambit",
     "displayName": "Karambit",
     "level": "Level 60",
-    "category": "Weapon",
+    "category": "Melee",
     "materials": {
         "steel": 100,
         "aluminium": 100,
@@ -747,7 +747,7 @@
     "id": "beretta",
     "displayName": "Beretta",
     "level": "Level 25",
-    "category": "Weapon",
+    "category": "Pistol",
     "blueprint": "Blueprint Required",
     "materials": {
     },
@@ -764,7 +764,7 @@
     "id": "Glock G45",
     "displayName": "Glock G45",
     "level": "Level 35",
-    "category": "Weapon",
+    "category": "Pistol",
     "blueprint": "Blueprint Required",
     "materials": {
     },
@@ -781,7 +781,7 @@
     "id": "vintage pistol",
     "displayName": "Vintage Pistol",
     "level": "Level 20",
-    "category": "Weapon",
+    "category": "Pistol",
     "blueprint": "Blueprint Required",
     "materials": {
     },
@@ -798,7 +798,7 @@
     "id": "double action revolver",
     "displayName": "Double Action Revolver",
     "level": "Level 25",
-    "category": "Weapon",
+    "category": "Pistol",
     "blueprint": "Blueprint Required",
     "materials": {
     },
@@ -815,7 +815,7 @@
     "id": "heavy revolver",
     "displayName": "Heavy Revolver",
     "level": "Level 25",
-    "category": "Weapon",
+    "category": "Pistol",
     "blueprint": "Blueprint Required",
     "materials": {
     },
@@ -832,7 +832,7 @@
     "id": "deagle",
     "displayName": "Deagle",
     "level": "Level 25",
-    "category": "Weapon",
+    "category": "Pistol",
     "blueprint": "Blueprint Required",
     "materials": {
     },
@@ -849,7 +849,7 @@
     "id": "heavy pistol",
     "displayName": "Heavy Pistol",
     "level": "Level 25",
-    "category": "Weapon",
+    "category": "Pistol",
     "blueprint": "Blueprint Required",
     "materials": {
     },
@@ -866,7 +866,7 @@
     "id": "double barrel shotgun",
     "displayName": "Double Barrel Shotgun",
     "level": "Level 35",
-    "category": "Weapon",
+    "category": "Shotgun",
     "blueprint": "Blueprint Required",
     "materials": {
     },
@@ -885,7 +885,7 @@
     "id": "super shorty",
     "displayName": "Super Shorty",
     "level": "Unknown",
-    "category": "Weapon",
+    "category": "Shotgun",
     "blueprint": "Blueprint Required",
     "materials": {
     },
@@ -904,7 +904,7 @@
     "id": "kel-tec KSG",
     "displayName": "Kel-Tec KSG",
     "level": "Unknown",
-    "category": "Weapon",
+    "category": "Shotgun",
     "blueprint": "Blueprint Required",
     "materials": {
     },
@@ -923,7 +923,7 @@
     "id": "molot vepr-12",
     "displayName": "Molot Vepr-12",
     "level": "Unknown",
-    "category": "Weapon",
+    "category": "Shotgun",
     "blueprint": "Blueprint Required",
     "materials": {
     },
@@ -942,7 +942,7 @@
     "id": "Tec 9",
     "displayName": "Tec 9",
     "level": "Level 35",
-    "category": "Weapon",
+    "category": "Pistol",
     "blueprint": "Blueprint Required",
     "materials": {
       "plastic": 250
@@ -961,7 +961,7 @@
     "id": "SIG Sauer MPX",
     "displayName": "SIG Sauer MPX",
     "level": "Level 35",
-    "category": "Weapon",
+    "category": "SMG",
     "blueprint": "Blueprint Required",
     "materials": {
     },
@@ -980,7 +980,7 @@
     "id": "MCX",
     "displayName": "MCX",
     "level": "Level 35",
-    "category": "Weapon",
+    "category": "SMG",
     "blueprint": "Blueprint Required",
     "materials": {
     },
@@ -999,7 +999,7 @@
     "id": "skorpion",
     "displayName": "Skorpion",
     "level": "Level 45",
-    "category": "Weapon",
+    "category": "SMG",
     "blueprint": "Blueprint Required",
     "materials": {
       "plastic": 250
@@ -1019,7 +1019,7 @@
     "id": "mac-10",
     "displayName": "Mac-10",
     "level": "Level 58",
-    "category": "Weapon",
+    "category": "SMG",
     "blueprint": "Blueprint Required",
     "materials": {},
     "additionalItems": {
@@ -1037,7 +1037,7 @@
     "id": "hk-ump",
     "displayName": "HK-UMP",
     "level": "Level 58",
-    "category": "Weapon",
+    "category": "SMG",
     "blueprint": "Blueprint Required",
     "materials": {},
     "additionalItems": {
@@ -1055,7 +1055,7 @@
     "id": "Magpul PDR",
     "displayName": "Magpul PDR",
     "level": "Unknown",
-    "category": "Weapon",
+    "category": "SMG",
     "blueprint": "Blueprint Required",
     "materials": {},
     "additionalItems": {
@@ -1073,7 +1073,7 @@
     "id": "AK47",
     "displayName": "AK47",
     "level": "Unknown",
-    "category": "Weapon",
+    "category": "Rifle",
     "blueprint": "Blueprint Required",
     "materials": {},
     "additionalItems": {
@@ -1091,7 +1091,7 @@
     "id": "demonfire rifle",
     "displayName": "Demonfire Rifle",
     "level": "Unknown",
-    "category": "Weapon",
+    "category": "Rifle",
     "blueprint": "Blueprint Required",
     "materials": {},
     "additionalItems": {
@@ -1111,7 +1111,7 @@
     "id": "interseteller rifle",
     "displayName": "Intersteller Rifle",
     "level": "Unknown",
-    "category": "Weapon",
+    "category": "Rifle",
     "blueprint": "Blueprint Required",
     "materials": {},
     "additionalItems": {
@@ -1131,7 +1131,7 @@
     "id": "ap pistol",
     "displayName": "AP Pistol",
     "level": "Unknown",
-    "category": "Weapon",
+    "category": "Pistol",
     "blueprint": "Blueprint Required",
     "materials": {
       "plastic": 250,
@@ -1150,7 +1150,7 @@
     "id": "molly",
     "displayName": "Molly",
     "level": "Unknown",
-    "category": "Weapon",
+    "category": "Throwable",
     "blueprint": "Blueprint Required",
     "materials": {
       "glass": 300
