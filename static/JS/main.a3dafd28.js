@@ -4,6 +4,7 @@ const App = {
   filteredRecipes: [],
   categories: [],
   quantity: 1,
+  totalMultiplier: 1,
 
   async init() {
     this.root = document.getElementById('root');
@@ -62,9 +63,23 @@ const App = {
       this.renderRecipes();
     });
 
+    const multiplierSelect = document.createElement('select');
+    ['One-to-One', 'Two-to-One', 'Three-to-One'].forEach((label, index) => {
+      const option = document.createElement('option');
+      option.value = String(index + 1);
+      option.textContent = label;
+      multiplierSelect.appendChild(option);
+    });
+    multiplierSelect.value = String(this.totalMultiplier);
+    multiplierSelect.addEventListener('change', () => {
+      this.totalMultiplier = parseInt(multiplierSelect.value, 10) || 1;
+      this.renderRecipes();
+    });
+
     container.appendChild(search);
     container.appendChild(categorySelect);
     container.appendChild(quantityInput);
+    container.appendChild(multiplierSelect);
     controls.appendChild(container);
   },
 
@@ -129,7 +144,7 @@ const App = {
 
         const totalMaterials = Object.values(recipe.materials).reduce((sum, value) => {
           return sum + (typeof value === 'number' ? value : 0);
-        }, 0) * this.quantity;
+        }, 0) * this.quantity * this.totalMultiplier;
 
         const totalRow = document.createElement('tr');
         totalRow.innerHTML = `<td><strong>Total mats required</strong></td><td><strong>${totalMaterials}</strong></td>`;
