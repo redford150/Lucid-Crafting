@@ -404,10 +404,10 @@
     "level": "Level 25",
     "category": "Container",
     "materials": {
-      "plastic": 40,
-      "aluminium": 30,
-      "rubber": 25,
-      "steel": 50
+      "plastic": 160,
+      "aluminium": 120,
+      "rubber": 100,
+      "steel": 200
     },
     "additionalItems": {}
   },
