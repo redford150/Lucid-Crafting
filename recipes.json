@@ -28,8 +28,10 @@
     "category": "Tool",
     "materials":{
         "electronics": 380,
-        "scrap": 380,
-        "tech shavings": 40
+        "scrap": 380
+    },
+    "additionalItems": {
+      "tech shavings": 40
     }
   },
   {
