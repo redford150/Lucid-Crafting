@@ -126,6 +126,14 @@ const App = {
         materialsHeader.innerHTML = '<th colspan="2">Materials</th>';
         table.appendChild(materialsHeader);
         renderItems(recipe.materials);
+
+        const totalMaterials = Object.values(recipe.materials).reduce((sum, value) => {
+          return sum + (typeof value === 'number' ? value : 0);
+        }, 0) * this.quantity;
+
+        const totalRow = document.createElement('tr');
+        totalRow.innerHTML = `<td><strong>Total mats required</strong></td><td><strong>${totalMaterials}</strong></td>`;
+        table.appendChild(totalRow);
       }
 
       if (recipe.additionalItems && Object.keys(recipe.additionalItems).length > 0) {

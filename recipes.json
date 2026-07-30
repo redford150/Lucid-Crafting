@@ -1405,7 +1405,6 @@
         "scrap": 250,
         "plastic": 75,
         "rubber": 115,
-        "scrap": 10,
         "steel": 270
     },
     "additionalItems": {
