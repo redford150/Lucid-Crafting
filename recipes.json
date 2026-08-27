@@ -595,19 +595,6 @@
     }
   },
   {
-    "id": "spike strip",
-    "displayName": "Spike Strip",
-    "level": "Level 60",
-    "category": "Tool",
-    "materials": {
-      "aluminium": 500,
-      "rubber": 500,
-      "steel": 500,
-      "plastic": 500
-    },
-    "additionalItems": {}
-  },
-  {
     "id": "Pink Spray Can",
     "displayName": "Pink Spray Can",
     "level": "Level 60",
@@ -647,7 +634,7 @@
   },
   {
     "id": "spike strip",
-    "displayName": "Spike trip",
+    "displayName": "Spike Strip",
     "level": "N/A",
     "category": "Tool",
     "materials": {
