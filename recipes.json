@@ -632,6 +632,33 @@
     }
   },
   {
+    "id": "meth lab kit",
+    "displayName": "Meth Lab Kit",
+    "level": "N/A",
+    "category": "Tool",
+    "materials": {
+      "Aluminium": 750,
+      "scrap": 750,
+      "plastic": 750
+    },
+    "additionalItems": {
+      "titanium": 150
+    }
+  },
+  {
+    "id": "spike strip",
+    "displayName": "Spike trip",
+    "level": "N/A",
+    "category": "Tool",
+    "materials": {
+      "Aluminium": 750,
+      "steel": 750,
+      "plastic": 750,
+      "rubber": 750
+    },
+    "additionalItems": {}
+  },
+  {
     "id": "switchblade",
     "displayName": "Switchblade",
     "level": "Level 0",
@@ -1107,6 +1134,26 @@
         "rifle reciever": 1,  
         "steel plate": 6,  
         "titanium": 340     
+    }
+  },
+  {
+    "id": "sai gry ar-15",
+    "displayName": "SAI GRY AR-15",
+    "level": "Unknown",
+    "category": "Rifle",
+    "blueprint": "Blueprint Required",
+    "materials": {},
+    "additionalItems": {
+        "rifle Stock": 1,    
+        "rifle Stock tube": 1, 
+        "gun trigger": 1,  
+        "rifle barrel": 1,      
+        "metal spring": 1, 
+        "bolt assembly": 1,   
+        "rifle grip": 1,  
+        "rifle reciever": 1,  
+        "steel plate": 6,  
+        "titanium": 375
     }
   },
    {
