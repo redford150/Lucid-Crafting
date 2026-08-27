@@ -10,6 +10,20 @@
     }
   },
   {
+    "id": "large military backpack",
+    "displayName": "Large Military Backpack",
+    "level": "Level 0",
+    "category": "Container",
+    "materials": {
+      "rubber": 500,
+      "scrap": 500
+    },
+    "additionalItems": {
+      "sowing thread": 100,
+      "leather hide": 75
+    }
+  },
+  {
     "id": "lockpick",
     "displayName": "Lockpick",
     "level": "Level 0",
@@ -1124,6 +1138,46 @@
     }
   },
   {
+    "id": "gewehr g36c",
+    "displayName": "Gewehr G36c",
+    "level": "Unknown",
+    "category": "Rifle",
+    "blueprint": "Blueprint Required",
+    "materials": {},
+    "additionalItems": {
+        "rifle Stock": 1,    
+        "rifle Stock tube": 1, 
+        "gun trigger": 1,  
+        "rifle barrel": 1,      
+        "metal spring": 1, 
+        "bolt assembly": 1,   
+        "rifle grip": 1,  
+        "rifle reciever": 1,  
+        "steel plate": 6,  
+        "titanium": 340     
+    }
+  },
+  {
+    "id": "m4 carbine",
+    "displayName": "M4 Carbine",
+    "level": "Unknown",
+    "category": "Rifle",
+    "blueprint": "Blueprint Required",
+    "materials": {},
+    "additionalItems": {
+        "rifle Stock": 1,    
+        "rifle Stock tube": 1, 
+        "gun trigger": 1,  
+        "rifle barrel": 1,      
+        "metal spring": 1, 
+        "bolt assembly": 1,   
+        "rifle grip": 1,  
+        "rifle reciever": 1,  
+        "steel plate": 6,  
+        "titanium": 375
+    }
+  },
+  {
     "id": "sai gry ar-15",
     "displayName": "SAI GRY AR-15",
     "level": "Unknown",
@@ -1143,7 +1197,7 @@
         "titanium": 375
     }
   },
-   {
+  {
     "id": "interseteller rifle",
     "displayName": "Intersteller Rifle",
     "level": "Unknown",
